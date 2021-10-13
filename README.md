@@ -12,3 +12,5 @@ Borsboom, D., et al. (2021). Network analysis of multivariate data in psychologi
 Henry, T.R., Robinaugh, D.J. & Fried, E.I. (2021). On the control of psychological networks, Psychometrika.
 </li>  
 </ol>
+
+<img src="PscStruc.png" alt="PscStruc.png" style="height: 100px; width:200px;"/>
