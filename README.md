@@ -3,7 +3,7 @@
 #### References
 <ol>
 <li>
-Ruiz, L., Gama, F.,  Ribeiro, A. (2021). Graph neural networks: architectures, stability, and transferability, in Proceedings of the IEEE, arXiv:2008.01767.
+Ruiz, L., Gama, F.,  Ribeiro, A. (2021). Graph neural networks: architectures, stability, and transferability, arXiv:2008.01767 (Proceedings of the IEEE).
 </li>
 <li>
 Borsboom, D., et al. (2021). Network analysis of multivariate data in psychological science, Nature Reviews Methods Primers 1, 57.
