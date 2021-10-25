@@ -26,3 +26,5 @@ Henry, T.R., Robinaugh, D.J. & Fried, E.I. (2021). On the control of psychologic
 </ol>
 
 <img src="PscStruc.png" alt="PscStruc.png" style="height: 360px; width:615px;"/>
+
+<img src="SpectralGraph.png" alt="SpectralGraph.png" style="height: 336px; width:245px;"/>
