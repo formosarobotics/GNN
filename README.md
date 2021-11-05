@@ -6,7 +6,7 @@
 
 <img src="GNNdataflow.png" alt="GNNdataflow.png" style="height: 295px; width:1231px;"/>
 
-In-depth books and papers rerlated to Deep Graph Learning:
+In-depth books and papers related to Deep Graph Learning:
 #### References
 <ol>
 <li>
