@@ -24,11 +24,23 @@ Henry, T.R., Robinaugh, D.J. & Fried, E.I. (2021). On the control of psychologic
   Stevens, E., Antiga, L., Viehmann, T. (2020). Deep Learning with PyTorch,  Manning.
 </li> 
 <li>
-  Higham, N. J., Functions of Matrices: Theory and Computation, SIAM, 2008.
+  Higham, N. J., Functions of Matrices: Theory and Computation (2008), SIAM.
 </li>
 <li>
-  Ma, Y., and Tang, J., Deep Learning on Graphs, Cambridge University Press, 2021.
+  Ma, Y., and Tang, J., Deep Learning on Graphs (2021), Cambridge University Press.
 </li> 
+<li>
+  F. Scarselli, et al., The Graph Neural Network Model (2009), IEEE Transactions on Neural Networks.
+</li>
+<li>
+  Z. Wu, et al., A Comprehensive Survey on Graph Neural Networks (2019), arXiv:1901.00596.
+</li>
+<li>
+  V. P. Dwivedi, et al., Benchmarking Graph Neural Networks (2020), arXiv:2003.00982.
+</li>
+<li>
+  J. Zhou, et al., Graph Neural Networks: A Review of Methods and Applications (2018), arXiv:1812.08434.
+</li>
 </ol>
 
 <img src="PscStruc.png" alt="PscStruc.png" style="height: 360px; width:615px;"/>
