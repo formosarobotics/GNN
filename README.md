@@ -23,6 +23,12 @@ Henry, T.R., Robinaugh, D.J. & Fried, E.I. (2021). On the control of psychologic
 <li>
   Stevens, E., Antiga, L., Viehmann, T. (2020). Deep Learning with PyTorch,  Manning.
 </li> 
+<li>
+  Higham, N. J., Functions of Matrices: Theory and Computation, SIAM, 2008.
+</li>
+<li>
+  Ma, Y., and Tang, J., Deep Learning on Graphs, Cambridge University Press, 2021.
+</li> 
 </ol>
 
 <img src="PscStruc.png" alt="PscStruc.png" style="height: 360px; width:615px;"/>
