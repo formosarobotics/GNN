@@ -3,17 +3,17 @@
 #### References
 <ol>
 <li>
-Ruiz, L., Gama, F.,  Ribeiro, A. (2021). Graph neural networks: architectures, stability, and transferability, arXiv:2008.01767 (Proceedings of the IEEE).
-</li>
-<li>
 Borsboom, D., et al. (2021). Network analysis of multivariate data in psychological science, Nature Reviews Methods Primers 1, 57.
 </li>
 <li>
 Henry, T.R., Robinaugh, D.J. & Fried, E.I. (2021). On the control of psychological networks, Psychometrika.
 </li>  
 <li>
-  Bronstein, M.M., Bruna, J., Cohen, T & Veličković, P (2021). Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, arXiv:2104.13478.
-</li>  
+  Stankovic, L. (2018), Vertex-Frequency Analysis of Graph Signals, Springer.
+</li>
+<li>
+  Ma, Y., and Tang, J. (2021), Deep Learning on Graphs, Cambridge University Press.
+</li> 
 <li>
   Spielman, D.A. (2019). Spectral and Algebraic Graph Theory, http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf .
 </li>  
@@ -24,11 +24,14 @@ Henry, T.R., Robinaugh, D.J. & Fried, E.I. (2021). On the control of psychologic
   Stevens, E., Antiga, L., Viehmann, T. (2020). Deep Learning with PyTorch,  Manning.
 </li> 
 <li>
-  Higham, N. J. (2008), Functions of Matrices: Theory and Computation, SIAM.
+Ruiz, L., Gama, F.,  Ribeiro, A. (2021). Graph neural networks: architectures, stability, and transferability, arXiv:2008.01767 (Proceedings of the IEEE).
 </li>
 <li>
-  Ma, Y., and Tang, J. (2021), Deep Learning on Graphs, Cambridge University Press.
-</li> 
+  Bronstein, M.M., Bruna, J., Cohen, T & Veličković, P (2021). Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, arXiv:2104.13478.
+</li>  
+<li>
+  Higham, N. J. (2008), Functions of Matrices: Theory and Computation, SIAM.
+</li>
 <li>
   F. Scarselli, et al. (2009), The Graph Neural Network Model, IEEE Transactions on Neural Networks.
 </li>
