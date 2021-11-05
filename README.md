@@ -21,6 +21,9 @@ Henry, T.R., Robinaugh, D.J. & Fried, E.I. (2021). On the control of psychologic
   Hamilton, W. L. (2020). Graph Representation Learning, Morgan & Claypool.
 </li>  
 <li>
+  Higham, N. J. (2008), Functions of Matrices: Theory and Computation, SIAM.
+</li>
+<li>
   Stevens, E., Antiga, L., Viehmann, T. (2020). Deep Learning with PyTorch,  Manning.
 </li> 
 <li>
@@ -29,9 +32,6 @@ Ruiz, L., Gama, F.,  Ribeiro, A. (2021). Graph neural networks: architectures, s
 <li>
   Bronstein, M.M., Bruna, J., Cohen, T & Veličković, P (2021). Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges, arXiv:2104.13478.
 </li>  
-<li>
-  Higham, N. J. (2008), Functions of Matrices: Theory and Computation, SIAM.
-</li>
 <li>
   F. Scarselli, et al. (2009), The Graph Neural Network Model, IEEE Transactions on Neural Networks.
 </li>
