@@ -31,6 +31,9 @@ Henry, T.R., Robinaugh, D.J. & Fried, E.I. (2021). On the control of psychologic
   Higham, N. J. (2008), Functions of Matrices: Theory and Computation, SIAM.
 </li>
 <li>
+  Zhang, A., et al. (2021), Dive into Deep Learning, https://d2l.ai/
+</li>
+<li>
   Stevens, E., Antiga, L., Viehmann, T. (2020). Deep Learning with PyTorch,  Manning.
 </li> 
 <li>
