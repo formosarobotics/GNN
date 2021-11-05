@@ -1,5 +1,11 @@
 ### GNN (Graph Neural Networks)
 
+<img src="PscStruc.png" alt="PscStruc.png" style="height: 360px; width:615px;"/>
+
+<img src="SpectralGraph1.png" alt="SpectralGraph.png" style="height: 257px; width:424px;"/>
+
+<img src="GNNdataflow.png" alt="GNNdataflow.png" style="height: 295px; width:1231px;"/>
+
 #### References
 <ol>
 <li>
@@ -45,9 +51,3 @@ Ruiz, L., Gama, F.,  Ribeiro, A. (2021). Graph neural networks: architectures, s
   J. Zhou, et al. (2018), Graph Neural Networks: A Review of Methods and Applications, arXiv:1812.08434.
 </li>
 </ol>
-
-<img src="PscStruc.png" alt="PscStruc.png" style="height: 360px; width:615px;"/>
-
-<img src="SpectralGraph1.png" alt="SpectralGraph.png" style="height: 257px; width:424px;"/>
-
-<img src="GNNdataflow.png" alt="GNNdataflow.png" style="height: 295px; width:1231px;"/>
